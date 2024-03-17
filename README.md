@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @LinaareAlgebra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# LinaareAlgebra
 
-<!---
-LinaareAlgebra/LinaareAlgebra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+```swift
+struct LinaareAlgebra: Developer {
+  let name = "Lina"
+  let languages = ["English", "Deutsch", "Swift", "Python", "Pascal"]
+  let skills = "just a bit of SwiftUI, iOS Developer stuff"
+
+  func sayHi() {
+    print("Hello! \nHow are you?")
+  }
+
+let me = LinaareAlgebra()
+me.sayHi()
+```
+
+---
+
+Hi, I'm a newbe to all of this. I'm trying to learn as much as I can. Have a look at my projects / repositories.
