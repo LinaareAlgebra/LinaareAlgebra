@@ -1,7 +1,5 @@
 # LinaareAlgebra
 
----
-
 ```swift
 struct LinaareAlgebra: Developer {
   let name = "Lina"
@@ -15,7 +13,5 @@ struct LinaareAlgebra: Developer {
 let me = LinaareAlgebra()
 me.sayHi()
 ```
-
----
 
 Hi, I'm a newbe to all of this. I'm trying to learn as much as I can. Have a look at my projects / repositories.
